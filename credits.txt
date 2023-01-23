@@ -1,0 +1,104 @@
+Mazda RX7 Tunable for Grand Theft Auto V
+http://neos7.altervista.org
+v1.3 Build 166
+
+3D Model by THQ
+Converted from Juiced 2 HIN by Neos7
+Extra roof
+Extra stock spoiler
+Templates for all the bodykits
+3D work by Wiik (rear lights and bumper lights)
+
+You can add you custom livery in the .ytd as extra livery
+The textures must be named as "skin_sign_x" where x is a number.
+As you can see the skin_sign_1 and skin_sign_2 are already being used by 2 of my skins, you can replace them or add more.
+
+On the pop-up headlights version, you can open them opening the Back Left Door.
+The modkit id value used is "700" so, if you use another mod which uses the same number, you should edit it in both carcols.meta and carvariations.meta for this mod or the other.
+Same for the lights, the id value used are "700" and "701"
+
+Tunable parts:
+4 Hoods
+8 Spoilers
+9 Front Bumpers
+9 Rear Bumpers
+9 Skirts
+6 Exhausts
+1 Widebody ("rollcage" menu)
+1 Couple of mirrors ("windows" menu)
+
+Spawn names:
+"rx7tunable" for the custom headlights version
+"rx7tunable2" for the pop-up headlights version
+
+From the update 1.2 the model includes some 3D work, so I've decided to lock the model.
+If you want an unlocked model you can still use the v1.1 or the previous versions. (You can find them on my blog)
+Feel free to edit the v1.1 at your own wish and upload it where you want, credits will be appreciated. 
+
+v1.3
+new wheels (tire+rim+disc+calipers)
+increased wheel size
+some minor textures fix
+replace version (banshee)
+
+v1.2
+New rear lights modeled by Wiik
+Tweaked almost all materials
+Bug fix
+The mod now uses the "omnis" sound
+
+v1.1
+Fixed weight distribution in the COLs
+Fixed weight in carcols
+Removed the text under the C-West logo on the skin
+Edited texture for the reflectors on the rear bumpers
+Added:
+2 Spoilers
+1 Exhaust
+4 Front Bumpers
+4 Rear Bumpers
+4 Skirts
+
+v1
+Fixed stock spoiler mapping
+Added lights coronas
+Added tunable mirrors on the doors (they are in the "windows" menu)
+Added a new hood for the chargespeed kit
+Added plates on front bumpers
+Fixed reflections on some black meshes
+
+v0.9
+The sunstrip is now an extra
+Fixed lights coronas
+Replaced the rims with stock spirit R ones
+Fixed a bug with tuned exhausts
+
+v0.8
+Fixed some carcols tags
+Added Chargespeed bodykit(includes a different bodyshell, you can tune it from the "Rollcage" menu)
+
+v0.7
+Fixed the meshes on the front bumpers (Big Thanks to WiiK for that)
+Fixed pop-up lights opening angle
+Changed modkit id to "700"
+Support to "Automatic Pop-up Headlights for various add-on vehicles"
+
+v0.6
+Pop-Up headlights version included
+
+v0.5
+Extra livery 
+Better dirt mapping
+Livery UV mapping on all the tuning parts
+Paintable lights cover
+Removed the tintable glass on the headlights/taillights
+
+v0.2
+Full Ings+1 Bodykit
+Full Veilside Combat 2 Bodykit
+Full Bomex Bodykit
+Full C-West Bodykit
+
+v0.1
+Add-on version only for now
+Stock RX7
